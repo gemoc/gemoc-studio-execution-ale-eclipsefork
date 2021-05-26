@@ -19,6 +19,7 @@
 	<modules>
       <module>org.eclipse.gemoc.ale.interpreted.engine.feature</module>
 	  <module>org.eclipse.gemoc.ale.interpreted.engine.updatesite</module>
+      <module>org.eclipse.gemoc.execution.ale.feature</module>
 	</modules>
 
 	<build>
